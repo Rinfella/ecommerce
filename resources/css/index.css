@@ -1,0 +1,65 @@
+
+.navbar-brand {
+
+    font-family: 'Passion One', cursive;
+    color: black;
+    font-size: 25px;
+    padding: 10px 10px;
+
+}
+
+.navbar-nav {
+    padding-left: 50%;
+    padding: 9px 100px ;
+}
+
+.cart {
+   padding-right: 20px;
+}
+
+.nav-item:hover {
+    background-color: rgb(250, 211, 179);
+  }
+
+  .sticky {
+  position: sticky;
+  background-color: transparent;
+
+
+  }
+    
+
+.carouselExampleControls{
+  padding:5%;
+}
+
+.cards-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.row {
+  padding-left: -8px;
+}
+
+.shopbybrand {
+  font-family: 'Alkatra', cursive;
+font-family: 'Passion One', cursive;
+}
+
+
+.hottest-drops {
+  font-family: 'Alkatra', cursive;
+font-family: 'Passion One', cursive;
+  padding-left: 20px;
+}
+
+.collection {
+  font-family: 'Alkatra', cursive;
+  font-family: 'Passion One', cursive;
+    padding-left: 20px;
+}
+
+.footer {
+  padding-top: 20px;
+}
